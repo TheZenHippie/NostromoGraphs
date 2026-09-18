@@ -1,3 +1,11 @@
+<p align="center">
+  <h3>📺 Click below to watch a demonstration video on YouTube!</h3>
+  <a href="https://youtu.be/_lhA_St6_nY" target="_blank">
+    <img src="https://youtube.com" alt="Watch the demonstration video" width="640" style="max-width: 100%; border-radius: 8px;" />
+  </a>
+</p>
+
+
 # NostromoGraphs // MUTHUR 6000 Telemetry Visualizer
 
 A retro-futuristic animated telemetry, radar, and sensor graphics visualizer for Windows based in the universe of the 1979 film *Alien* and the Weyland-Yutani **MUTHUR-6000** mainframe.
